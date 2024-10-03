@@ -1,4 +1,4 @@
-﻿namespace RateLimitedNotificationService.Service
+﻿namespace RateLimitedNotificationService.Config
 {
     public class ConfigurationData
     {

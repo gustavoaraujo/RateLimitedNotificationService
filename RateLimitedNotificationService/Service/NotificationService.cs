@@ -3,6 +3,7 @@ using Amazon.ElastiCacheCluster;
 using Enyim.Caching;
 using Newtonsoft.Json;
 using RateLimitedNotificationService.Cache;
+using RateLimitedNotificationService.Config;
 using RateLimitedNotificationService.Repositories;
 
 namespace RateLimitedNotificationService.Service

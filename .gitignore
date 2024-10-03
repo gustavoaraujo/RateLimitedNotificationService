@@ -1,0 +1,12 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RateLimitedNotificationService/bin/Debug/net7.0
+/RateLimitedNotificationService/obj
+/RateLimitedNotificationService.UnitTests/bin/Debug/net7.0
+/RateLimitedNotificationService.UnitTests/obj
+/RateLimitedNotificationService/bin/Debug/net6.0
+/RateLimitedNotificationService.Demo/obj
+/RateLimitedNotificationService.UnitTests/bin/Debug/net6.0

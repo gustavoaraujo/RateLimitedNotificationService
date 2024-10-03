@@ -1,0 +1,5 @@
+{
+  "CacheEndpoint": "www.cfg.org",
+  "CachePort": 11211,
+  "DbServiceURL": "http://localhost:8000"
+}
